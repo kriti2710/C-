@@ -7,4 +7,7 @@ int main() {
   if (n>=18) {
     cout<<"You can vote";
   }
+  else {
+    cout<<"You can not vote";
+  }
 }
