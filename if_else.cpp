@@ -6,9 +6,9 @@ int main() {
   cin>>n;
   if (n>=18) {
     cout<<"You can vote"<<endl;
-    cout<<"You can Drive";
+    cout<<"You can Drive"<<endl;
   }
   else {
-    cout<<"You can not vote";
+    cout<<"You can not vote"<<endl;
   }
 }
